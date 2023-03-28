@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpenseChart_React/static/css/main.c4a71643.css",
+    "main.js": "/ExpenseChart_React/static/js/main.d9fcc59c.js",
+    "index.html": "/ExpenseChart_React/index.html",
+    "main.c4a71643.css.map": "/ExpenseChart_React/static/css/main.c4a71643.css.map",
+    "main.d9fcc59c.js.map": "/ExpenseChart_React/static/js/main.d9fcc59c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4a71643.css",
+    "static/js/main.d9fcc59c.js"
+  ]
+}
